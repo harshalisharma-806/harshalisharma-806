@@ -18,9 +18,9 @@ Deploying ML models as web applications
 
 🛠️ Tech Stack
 
-Languages: Python · JavaScript · HTML · CSS · C/C++ (edit to match your skills)
+Languages: Python · JavaScript · HTML · CSS · C
 
-AI / ML: NumPy · Pandas · Matplotlib · Scikit-learn · TensorFlow / PyTorch (add as you learn)
+AI / ML: NumPy · Pandas · Matplotlib · Scikit-learn · TensorFlow / PyTorch 
 
 Web & Tools: Chart.js · Git · GitHub · VS Code · Jupyter Notebook
 
